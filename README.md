@@ -2,6 +2,10 @@
 Project for TartanHacks at CMU
 
 ##Prize Categories
+###Won
+Grand Prize
+Facebook Company Prize
+###Attempted
 Duolingo’s Social Impact Prize (Educational) and
 GoDaddy’s Social Impact Prize (“Best app that improves STEM education”)
 
